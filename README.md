@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Syed Raza and I'm a 4th Year CSE Major  from  India</p>
+<p align="left">My name is  Syed Raza and I'm a 4th Year CSE Major  from  India looking to learn various technologies </p>
 
 ###
 
@@ -33,7 +33,7 @@
 </div>
 
 ###
-
+<h2>To Get In Touch </h2>
 <div align="left">
   <a href="www.linkedin.com/in/syed-mohammed-naqi-raza" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
