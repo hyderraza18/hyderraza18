@@ -32,12 +32,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-<h2>To Get In Touch </h2>
-<div align="left">
-  <a href="www.linkedin.com/in/syed-mohammed-naqi-raza" target="[_blank](https://www.linkedin.com/in/syed-mohammed-naqi-raza/)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
